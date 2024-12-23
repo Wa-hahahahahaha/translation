@@ -1,0 +1,10 @@
+install:
+install:vt. 安装; 安顿，安置; 任命; 使…正式就职
+installs:v. 安装( install的第三人称单数 ); 安顿; 安置; 使…正式就职
+installed:v. 安置; 安装( install的过去式和过去分词 ); 安顿; 使…正式就职
+installer:n. 安装程序; 安装者; 安装工
+install in:在…安装…; 把…安置于…; 委派…担任…
+----------
+deprecated:
+deprecated:v. 不赞成，反对( deprecate的过去式和过去分词 )
+----------
